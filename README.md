@@ -1,1 +1,1 @@
-# neural-network-vhdl
+# Neural Network - VHDL
